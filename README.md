@@ -49,11 +49,17 @@ A step-by-step series of examples that tell you how to get a development environ
    npm install
    ```
 
-3. Start the frontend development server:
+3. Create .env.local file in the frontend directory
+   Copy the following content in the file
 
-   ```sh
-   npm run dev
-   ```
+   NEXT_PUBLIC_API_HOST=http://localhost:8000
+   NEXT_PUBLIC_WS_HOST=ws://127.0.0.1:8000
+
+4. Start the frontend development server:
+
+```sh
+npm run dev
+```
 
 ## Built With
 

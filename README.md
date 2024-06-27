@@ -1,4 +1,4 @@
-# Airbnb Clone - Django and TypeScript
+# Airbnb Clone - Django and Next.js
 
 ## Getting Started
 
@@ -65,4 +65,5 @@ npm run dev
 
 - [Django](https://www.djangoproject.com/) - The backend framework
 - [React](https://reactjs.org/) - The frontend library
+- [Next.js](https://nextjs.org/) - The React framework for production
 - [TypeScript](https://www.typescriptlang.org/) - JavaScript with type checking
